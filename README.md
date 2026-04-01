@@ -1,6 +1,6 @@
 <h3>Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I am</h3>
 
- <!--<img src="https://raw.githubusercontent.com/paa-rth/paa-rth/master/gh-header-image-cropped.png" alt="banner that says Paarth Baradia - software engineer, content creator and community organizer alongside a cartoon illustration of Paarth">-->
+ <img src="KMGithub.png" alt="">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Data+Analysist;📦Curious+Builder;🧠Multi-Passionate;👋Fancy+seeing+you+here...)
 
