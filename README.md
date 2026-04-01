@@ -11,7 +11,7 @@ Beyond technical skills, I bring strong problem-solving, critical thinking, and 
 
 You would find me with my computer either creating something new with my team or planning a long car ride with meticulous planning down to the perfect route and hidden stopovers 🛣️.
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/paa-rth"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/mehta-krish"><img align="right" width="500" height="500" src="octokrish-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/krish-mehta1/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://krishmehta.vercel.app">Portfolio</a> 🏓
 - Let's work together!! <a href="">My Resume</a> ⚙️
