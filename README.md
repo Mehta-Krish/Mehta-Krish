@@ -14,7 +14,7 @@ You would find me with my computer either creating something new with my team or
 ## Find me around the web 🌎: <a href="https://github.com/mehta-krish"><img align="right" width="500" height="500" src="octokrish-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/krish-mehta1/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://krishmehta.vercel.app">Portfolio</a> 🏓
-- Let's work together!! <a href="">My Resume</a> ⚙️
+- Let's work together!! <a href="https://github.com/Mehta-Krish/Mehta-Krish/blob/main/Krish_Mehta_CV.pdf">My Resume</a> ⚙️
 
 
 ### ⚙️ &nbsp;My Tech Stack
